@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+    <string name="no_photo_url">https://firebasestorage.googleapis.com/v0/b/pomodoro-timer-eb495.appspot.com/o/no_photo.jpg?alt=media&amp;token=7b014b7e-615e-4016-bc2c-f8d7196d5eb6</string>
+</resources>

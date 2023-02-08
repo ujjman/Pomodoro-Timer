@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422954631276",
+    "project_id": "pomodoro-timer-eb495",
+    "storage_bucket": "pomodoro-timer-eb495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422954631276:android:ed30d308268c6b03dc5849",
+        "android_client_info": {
+          "package_name": "com.ujjman.timer.pomodorotimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422954631276-gl9ucd4s97s6mvstubi5pboacvfijg69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpha64Rf-p74sd4sA-jVsxxj8ewDbcu2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422954631276-gl9ucd4s97s6mvstubi5pboacvfijg69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
